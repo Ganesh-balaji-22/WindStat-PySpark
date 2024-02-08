@@ -1,4 +1,4 @@
-# Wind Turbine Power Prediction
+# WindStat - Smart Energy Forecasting
 
 ## Aim of the Study
 
